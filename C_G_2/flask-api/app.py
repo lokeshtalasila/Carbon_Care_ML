@@ -10,7 +10,7 @@ from catboost import CatBoostRegressor
 from catboost import Pool
 
 app = Flask(__name__)
-CORS(app, origins=["https://carbon-care-aj0piyuij-lokeshs-projects-fb40a269.vercel.app"])
+CORS(app, origins=["https://carbon-care-ml.vercel.app"])
 
 # Load CatBoost model
 model_path = 'catboost_model.pkl'
