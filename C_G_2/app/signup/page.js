@@ -42,7 +42,7 @@ export default function SignupPage() {
         <div className="text-center mb-8">
           <Link href="/" className="inline-flex items-center">
             <Shield className="h-6 w-6 text-emerald-600 mr-2" />
-            <span className="text-2xl font-bold">Carbon Guard</span>
+            <span className="text-2xl font-bold">Carbon Care</span>
           </Link>
           <h1 className="text-2xl font-bold mt-6">Create your account</h1>
           <p className="text-gray-600 mt-2">Start tracking your carbon footprint today</p>

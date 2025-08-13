@@ -57,7 +57,7 @@ export default function DashboardLayout({ children }) {
           <div className="p-4 border-b">
             <Link href="/" className="flex items-center">
               <Shield className="h-6 w-6 text-emerald-600 mr-2" />
-              <span className="text-xl font-bold">Carbon Guard</span>
+              <span className="text-xl font-bold">Carbon Care</span>
             </Link>
           </div>
 

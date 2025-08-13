@@ -10,7 +10,7 @@ export default function LandingPage() {
           <div className="flex flex-col items-center text-center max-w-3xl mx-auto gap-6">
             <div className="inline-flex items-center justify-center p-2 bg-white/10 backdrop-blur-sm rounded-full mb-4">
               <Shield className="h-6 w-6 mr-2" />
-              <span className="text-sm font-medium">Carbon Guard</span>
+              <span className="text-sm font-medium">Carbon Care</span>
             </div>
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight">Monitor & Reduce Your Carbon Footprint</h1>
             <p className="text-lg md:text-xl text-white/80 max-w-2xl">
@@ -40,7 +40,7 @@ export default function LandingPage() {
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">How Carbon Guard Works</h2>
+            <h2 className="text-3xl font-bold mb-4">How Carbon Care Works</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Our platform makes it easy to track, analyze, and reduce your carbon footprint through simple data
               collection and powerful insights.
@@ -108,7 +108,7 @@ export default function LandingPage() {
             <div className="mb-8 md:mb-0">
               <div className="flex items-center mb-4">
                 <Shield className="h-6 w-6 mr-2" />
-                <span className="text-xl font-bold">Carbon Guard</span>
+                <span className="text-xl font-bold">Carbon Care</span>
               </div>
               <p className="text-gray-400 max-w-md">
                 Helping individuals understand and reduce their environmental impact through data-driven insights.
@@ -178,7 +178,7 @@ export default function LandingPage() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-            <p>© {new Date().getFullYear()} Carbon Guard. All rights reserved.</p>
+            {/* <p>© {new Date().getFullYear()} Carbon Care. All rights reserved.</p> */}
           </div>
         </div>
       </footer>
