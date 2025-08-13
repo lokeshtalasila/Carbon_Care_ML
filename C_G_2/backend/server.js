@@ -22,7 +22,7 @@ app.use(express.json())
 
 // Connect to MongoDB
 mongoose
-  .connect(process.env.MONGODB_URI || "mongodb://localhost:27017/carbon-guard")
+  .connect(process.env.MONGODB_URI || "mongodb+srv://testuser:shambho801@cluster0.px6ohlp.mongodb.net/")
   .then(() => console.log("MongoDB connected"))
   .catch((err) => console.error("MongoDB connection error:", err))
 
