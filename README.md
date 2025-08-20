@@ -1,12 +1,12 @@
-# 🌍 Carbon-Guard: AI-powered Carbon Footprint Tracking
+# 🌍 Carbon-care: AI-powered Carbon Footprint Tracking
 
-Carbon-Guard is a full-stack web application that helps users track and reduce their carbon footprint using AI and machine learning. With a simple and engaging interface, users can estimate their emissions and receive personalized recommendations to adopt a more sustainable lifestyle.
+Carbon-care is a full-stack web application that helps users track and reduce their carbon footprint using AI and machine learning. With a simple and engaging interface, users can estimate their emissions and receive personalized recommendations to adopt a more sustainable lifestyle.
 
 ## 🚀 Live Demo
 
-🔗 https://carbon-guard-ml.vercel.app/
+🔗 https://carbon-care-ml.vercel.app/
 
-## 📸 Screenshots
+<!-- ## 📸 Screenshots
 - Landing Page
 ![image](https://github.com/user-attachments/assets/e24c7162-6ab9-4b39-8d87-06fdee1bf6f8)
 
@@ -23,7 +23,7 @@ Carbon-Guard is a full-stack web application that helps users track and reduce t
 
 - Recommendations 
 
-![image](https://github.com/user-attachments/assets/d42206d6-ad7b-47ef-9c2d-20cd7658b5a6)
+![image](https://github.com/user-attachments/assets/d42206d6-ad7b-47ef-9c2d-20cd7658b5a6) -->
 
 
 
